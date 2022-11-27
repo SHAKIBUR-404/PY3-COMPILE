@@ -1,2 +1,2 @@
-# PY3-COMPILE-
+# PY3-COMPILE
 Secure your personal script   
